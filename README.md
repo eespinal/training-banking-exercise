@@ -31,6 +31,12 @@ TIPS:
 ## To start, just install the bundle gem
 
 ```ruby
+gem install bundler
+```
+
+## Install the project dependencies
+
+```ruby
 bundle install
 ```
 
